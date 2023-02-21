@@ -1,4 +1,3 @@
-
 module github.com/pauljamm/geekbrains-conteinerization/practice/8.ci-cd/app
 
 go 1.14
